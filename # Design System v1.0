@@ -1,0 +1,110 @@
+# Design System v1.0
+
+
+## Design Style
+
+
+Editorial AI Workspace
+
+
+---
+
+# Color
+
+
+Primary:
+
+Science Navy
+
+#16324F
+
+
+AI:
+
+AI Teal
+
+#1B9AAA
+
+
+Accent:
+
+Discovery Yellow
+
+#F4B942
+
+
+Background:
+
+#F8FAFC
+
+
+
+---
+
+# Typography
+
+
+中文：
+
+思源黑体
+
+
+英文：
+
+Inter
+
+
+---
+
+# Components
+
+
+必须包含：
+
+
+Sidebar
+
+
+Dashboard
+
+
+Agent Card
+
+
+Report Card
+
+
+Data Table
+
+
+AI Status
+
+
+---
+
+# Layout
+
+
+采用：
+
+Sidebar
+
++
+
+Workspace
+
+
+---
+
+# UX原则
+
+
+AI生成内容：
+
+必须允许编辑。
+
+
+AI推荐：
+
+必须说明依据。
+

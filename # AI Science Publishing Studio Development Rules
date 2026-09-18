@@ -1,0 +1,103 @@
+# AI Science Publishing Studio Development Rules
+
+
+## 项目定位
+
+这是一个：
+
+Editorial AI Workspace
+
+
+不是：
+
+普通聊天机器人。
+
+
+---
+
+# 开发原则
+
+
+## 1. AI辅助编辑
+
+所有AI输出：
+
+必须：
+
+- 可编辑
+- 可修改
+- 可追溯
+
+
+---
+
+## 2. 产品体验优先
+
+开发顺序：
+
+用户流程
+
+↓
+
+页面设计
+
+↓
+
+组件
+
+↓
+
+代码
+
+
+---
+
+# UI规范
+
+
+必须遵循：
+
+UI UX Pro Max Design System
+
+
+设计关键词：
+
+Professional
+
+Editorial
+
+Knowledge-driven
+
+AI-assisted
+
+
+---
+
+# 技术规范
+
+
+使用：
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+
+组件：
+
+优先复用。
+
+
+---
+
+# 禁止
+
+
+不要：
+
+- 简单ChatGPT聊天页面
+- 儿童游戏化界面
+- 大量无意义动画
+

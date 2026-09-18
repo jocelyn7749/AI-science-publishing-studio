@@ -1,0 +1,23 @@
+AI-science-publishing-studio
+│
+├── README.md
+├── AGENTS.md
+├── PRD.md
+├── DESIGN_SYSTEM.md
+├── USER_FLOW.md
+├── AGENT_ARCHITECTURE.md
+│
+├── .skills
+│   └── ui-ux-pro-max
+│       ├── SKILL.md
+│       ├── components.md
+│       ├── ux-rules.md
+│       └── prompts.md
+│
+├── app
+│
+├── components
+│
+├── agents
+│
+└── knowledge-base

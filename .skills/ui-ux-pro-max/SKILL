@@ -1,0 +1,65 @@
+
+---
+
+# 6. .skills/ui-ux-pro-max/SKILL.md
+
+```markdown
+# UI UX Pro Max Project Skill
+
+
+## Product Type
+
+B2B AI SaaS
+
++
+
+Publishing Workspace
+
+
+---
+
+## Design Direction
+
+
+Editorial Intelligence
+
+
+---
+
+## User
+
+Professional editor
+
+
+---
+
+## Avoid
+
+
+- Chatbot UI
+- Toy-like interface
+- Excessive AI effects
+
+
+---
+
+## Priorities
+
+
+1. Information hierarchy
+
+2. Editable AI output
+
+3. Professional workflow
+
+
+---
+
+## Preferred Stack
+
+
+Next.js
+
+Tailwind CSS
+
+shadcn/ui
